@@ -1,0 +1,5 @@
+DB_HOST = "192.168.135.10"
+DB_PORT = "5432"
+DB_NAME = "obce"
+DB_USER = "student"
+DB_PASSWORD = "bluemonkey3"
